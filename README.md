@@ -18,7 +18,7 @@ Peace out!
 
 ## My Github stats
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=holi_icons=true)<Br>
+!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)<Br>
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel)<Br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diapatel)
 
