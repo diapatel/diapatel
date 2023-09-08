@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
 ## A little about me
 Hi! I am Diya Patel and I'm on this exciting journey to explore the fascinating world of Data Science and Machine Learning. Through countless hours of learning and practicing, I aim to hone my skills in problem-solving, coding and all things data. Here on my Github account, I share my learnings and projects. Feel free to go through my repositories and connect with me. I'm always open to fresh opinions and perspectives.
@@ -11,8 +11,8 @@ Peace out!
 | Tools                 |<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/> | 
 | Programming Languages | <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> |
 | Databases             | <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>|                                                | Web Framework         | <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/flask.png" alt="flask"/>   | 
-| Data analysis         | <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img width="65" height="48" src="https://th.bing.com/th/id/OIP.fhwbYSylPh_7Wb8_QnLosQHaDA?pid=ImgDet&rs=1" alt="pandas"/>
-| Data visualization    |  <img width="48" height="48" src="(https://matplotlib.org/3.3.2/_images/sphx_glr_logos2_003.png)" alt="matplotlib"/>|
+| Data analysis         | <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img width="65" height="48" src="https://th.bing.com/th/id/OIP.fhwbYSylPh_7Wb8_QnLosQHaDA?pid=ImgDet&rs=1" alt="pandas"/> |
+| Data visualization    |  <img width="48" height="48" src="https://matplotlib.org/3.3.2/_images/sphx_glr_logos2_003.png" alt="matplotlib"/> |
 | Machine Learning      |   |
 
 
