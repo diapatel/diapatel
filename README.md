@@ -8,7 +8,8 @@ Peace out!
 # Skillset
 | Category              | Tools and Languages                                  |
 |-----------------------|------------------------------------------------------|
-| Tools                 | <a href="https://jupyter.org/" target="_blank"><img src="https://example.com/jupyter-icon.png" alt="Jupyter" title="Jupyter" width="30"/></a> 
+| Tools                 |<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+<a href="https://jupyter.org/" target="_blank"><img src="https://example.com/jupyter-icon.png" alt="Jupyter" title="Jupyter" width="30"/></a> 
                           <a href="https://code.visualstudio.com/" target="_blank"><img src="https://example.com/vscode-icon.png" alt="VS Code" title="VS Code" width="30"/></a>                   <a href="https://git-scm.com/" target="_blank"><img src="https://example.com/git-icon.png" alt="Git" title="Git" width="30"/></a> |
 | Programming Languages | <a href="https://www.python.org/" target="_blank"><img src="https://example.com/python-icon.png" alt="Python" title="Python" width="30"/></a> |
 
