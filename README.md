@@ -18,9 +18,7 @@ Peace out!
 
 ## My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)  
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=diapatel)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true) 
 
 🌱 I’m currently learning Machine Learning<Br>
 😄 Pronouns: she/her<br>
