@@ -8,10 +8,7 @@ Peace out!
 # Skillset
 | Category              | Tools and Languages                                  |
 |-----------------------|------------------------------------------------------|
-| Tools                 |<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
-                        <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>  
-                        <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/>
-
+| Tools                 |<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/> | 
 | Programming Languages | <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> |
 | Databases             | <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>|                                                                                                                                               |
 
