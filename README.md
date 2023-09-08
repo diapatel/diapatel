@@ -18,7 +18,7 @@ Peace out!
 
 ## My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)  
+!![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diapatel)
 
 🌱 I’m currently learning Machine Learning<Br>
@@ -26,7 +26,8 @@ Peace out!
 📫 How to reach me: pateldiya703@gmail.com
 <!--
 **diapatel/diapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--- -- ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed)<Br>
+-- -- 
+-- [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)  
 
 
 
