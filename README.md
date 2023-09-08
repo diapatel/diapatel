@@ -11,7 +11,7 @@ Peace out!
 | Tools                 |<img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/pycharm.png" alt="pycharm"/> | 
 | Programming Languages | <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> |
 | Databases             | <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>|                                                | Web Framework         | <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/flask.png" alt="flask"/>   | 
-| Data analysis         | <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img width="48" height="48" src="[[https://img.icons8.com/color/48/numpy.png](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)](https://i1.wp.com/hutsons-hacks.info/wp-content/uploads/2020/09/1200px-Pandas_logo.svg_-1-1024x414.png?resize=450%2C182&ssl=1)" alt="numpy"/>
+| Data analysis         | <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img width="48" height="48" src="https://th.bing.com/th/id/OIP.fhwbYSylPh_7Wb8_QnLosQHaDA?pid=ImgDet&rs=1" alt="numpy"/>
 | Data visualization    |  |
 | Machine Learning      |   |
 
