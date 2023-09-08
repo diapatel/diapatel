@@ -18,7 +18,7 @@ Peace out!
 
 ## My Github stats
 
-!![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed)
+!![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed&show_icons=true)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diapatel)
 
 🌱 I’m currently learning Machine Learning<Br>
