@@ -18,7 +18,8 @@ Peace out!
 
 ## My Github stats
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed)<Br>
+!!https://github-readme-streak-stats.herokuapp.com/?user=diapatel&theme=github_dark_dimmed&show_icons=true
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)  ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed)<Br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=diapatel)
 
 🌱 I’m currently learning Machine Learning<Br>
