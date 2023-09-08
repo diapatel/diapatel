@@ -5,6 +5,14 @@ Hi! I am Diya Patel and I'm on this exciting journey to explore the fascinating 
 
 Peace out!
 
+# Skillset
+| Category              | Tools and Languages                                  |
+|-----------------------|------------------------------------------------------|
+| Tools                 | <a href="https://jupyter.org/" target="_blank"><img src="https://example.com/jupyter-icon.png" alt="Jupyter" title="Jupyter" width="30"/></a> 
+                          <a href="https://code.visualstudio.com/" target="_blank"><img src="https://example.com/vscode-icon.png" alt="VS Code" title="VS Code" width="30"/></a>                   <a href="https://git-scm.com/" target="_blank"><img src="https://example.com/git-icon.png" alt="Git" title="Git" width="30"/></a> |
+| Programming Languages | <a href="https://www.python.org/" target="_blank"><img src="https://example.com/python-icon.png" alt="Python" title="Python" width="30"/></a> |
+
+
 ## My Github stats
 
 ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=diapatel)<Br>
