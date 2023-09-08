@@ -12,7 +12,7 @@ Peace out!
 | Programming Languages | <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> |
 | Databases             | <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>|                                                | Web Framework         | <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/flask.png" alt="flask"/>   | 
 | Data analysis         | <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>  <img width="65" height="48" src="https://th.bing.com/th/id/OIP.fhwbYSylPh_7Wb8_QnLosQHaDA?pid=ImgDet&rs=1" alt="pandas"/> |
-| Data visualization    |  <img width="48" height="48" src="https://matplotlib.org/3.3.2/_images/sphx_glr_logos2_003.png" alt="matplotlib"/> |
+| Data visualization    |  <img width="48" height="48" src="https://numfocus.org/wp-content/uploads/2016/07/Matplotlib_Logo_191209.png" alt="matplotlib"/> <img width="48" height="48" src="https://www.bing.com/images/blob?bcid=RFGUSinrxQ0GqxcxoNWLuD9SqbotqVTdP28" alt="seaborn"/>|
 | Machine Learning      |   |
 
 
