@@ -22,6 +22,8 @@ Peace out!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&layout=compact)
+
 🌱 I’m currently learning Machine Learning<Br>
 😄 Pronouns: she/her<br>
 📫 How to reach me: pateldiya703@gmail.com
