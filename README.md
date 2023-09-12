@@ -20,8 +20,6 @@ Peace out!
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=diapatel.diapatel)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&layout=compact)
 
 🌱 I’m currently learning Machine Learning<Br>
 😄 Pronouns: she/her<br>
@@ -30,6 +28,8 @@ Peace out!
 **diapatel/diapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -- -- 
 -- [Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&theme=github_dark_dimmed&show_icons=true)
+-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)   
+-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&layout=compact)
 
 
 
