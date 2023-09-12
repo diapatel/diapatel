@@ -18,6 +18,8 @@ Peace out!
 
 ## My Github stats
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=diapatel.diapatel)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true) 
 
 🌱 I’m currently learning Machine Learning<Br>
