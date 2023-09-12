@@ -20,7 +20,8 @@ Peace out!
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=diapatel.diapatel)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diapatel&theme=github_dark_dimmed&show_icons=true)   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diapatel&layout=compact)
 
 🌱 I’m currently learning Machine Learning<Br>
 😄 Pronouns: she/her<br>
